@@ -243,11 +243,11 @@
         },
         "default_context": "Default",
         "context": {
-            "preset": "Default",
-            "story_string": "{{#if system}}{{system}}\n{{/if}}{{#if wiBefore}}{{wiBefore}}\n{{/if}}{{#if description}}{{description}}\n{{/if}}{{#if personality}}{{char}}'s personality: {{personality}}\n{{/if}}{{#if scenario}}Scenario: {{scenario}}\n{{/if}}{{#if wiAfter}}{{wiAfter}}\n{{/if}}{{#if persona}}{{persona}}\n{{/if}}",
-            "chat_start": "***",
-            "example_separator": "***",
-            "use_stop_strings": true,
+            "preset": "simple-proxy-for-tavern",
+            "story_string": "## {{char}}\n- You're \"{{char}}\" in this never-ending roleplay with \"{{user}}\".\n### Input:\n{{#if system}}{{system}}\n{{/if}}{{#if wiBefore}}{{wiBefore}}\n{{/if}}{{#if description}}{{description}}\n{{/if}}{{#if personality}}{{char}}'s personality: {{personality}}\n{{/if}}{{#if scenario}}Scenario: {{scenario}}\n{{/if}}{{#if wiAfter}}{{wiAfter}}\n{{/if}}{{#if persona}}{{persona}}\n{{/if}}### Response:\n(OOC) Understood. I will take this info into account for the roleplay. (end OOC)",
+            "chat_start": "### New Roleplay:",
+            "example_separator": "### New Roleplay:",
+            "use_stop_strings": false,
             "allow_jailbreak": false
         },
         "personas": {},
