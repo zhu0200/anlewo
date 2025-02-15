@@ -1491,7 +1491,7 @@
         "openrouter_sort_models": "alphabetically",
         "jailbreak_system": false,
         "reverse_proxy": "",
-        "chat_completion_source": "makersuite",
+        "chat_completion_source": "openai",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
