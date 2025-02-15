@@ -7,7 +7,7 @@
     "user_avatar": "user-default.png",
     "amount_gen": 150,
     "max_context": 7808,
-    "main_api": "novel",
+    "main_api": "textgenerationwebui",
     "world_info_settings": {
         "world_info": {
             "globalSelect": []
