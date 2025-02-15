@@ -653,7 +653,8 @@
         ],
         "default_CodingSensei.png": [
             "1345561466591"
-        ]
+        ],
+        "3.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -961,7 +962,7 @@
         "openrouter_sort_models": "alphabetically",
         "jailbreak_system": false,
         "reverse_proxy": "",
-        "chat_completion_source": "openai",
+        "chat_completion_source": "custom",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
