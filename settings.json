@@ -1229,7 +1229,7 @@
         "personality_format": "[{{char}}'s personality: {{personality}}]",
         "openai_model": "claude-2",
         "claude_model": "claude-2.0",
-        "google_model": "gemini-pro",
+        "google_model": "gemini-1.5-pro-latest",
         "ai21_model": "j2-ultra",
         "mistralai_model": "mistral-medium-latest",
         "cohere_model": "command-r",
