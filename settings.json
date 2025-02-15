@@ -5,8 +5,8 @@
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "gui",
     "user_avatar": "user-default.png",
-    "amount_gen": 250,
-    "max_context": 2048,
+    "amount_gen": 150,
+    "max_context": 7808,
     "main_api": "novel",
     "world_info_settings": {
         "world_info": {
@@ -657,33 +657,34 @@
         "3.png": []
     },
     "nai_settings": {
-        "temperature": 1.5,
-        "repetition_penalty": 2.25,
+        "temperature": 1.35,
+        "repetition_penalty": 2.8,
         "repetition_penalty_range": 2048,
-        "repetition_penalty_slope": 0.09,
-        "repetition_penalty_frequency": 0,
-        "repetition_penalty_presence": 0.005,
-        "tail_free_sampling": 0.975,
-        "top_k": 10,
-        "top_p": 0.75,
-        "top_a": 0.08,
-        "typical_p": 0.975,
+        "repetition_penalty_slope": 0.02,
+        "repetition_penalty_frequency": 0.02,
+        "repetition_penalty_presence": 0,
+        "tail_free_sampling": 0.915,
+        "top_k": 15,
+        "top_p": 0.85,
+        "top_a": 0.1,
         "min_length": 1,
-        "model_novel": "clio-v1",
-        "preset_settings_novel": "Talker-Chat-Clio",
+        "model_novel": "kayra-v1",
+        "preset_settings_novel": "Carefree-Kayra",
         "streaming_novel": true,
         "preamble": "[ Style: chat, complex, sensory, visceral ]",
+        "prefix": "vanilla",
         "cfg_uc": "",
         "banned_tokens": "",
         "order": [
-            1,
-            5,
-            0,
             2,
             3,
-            4
+            0,
+            4,
+            1
         ],
-        "logit_bias": []
+        "logit_bias": [],
+        "phrase_rep_pen": "aggressive",
+        "cfg_scale": 1
     },
     "kai_settings": {
         "temp": 1,
