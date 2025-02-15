@@ -976,7 +976,7 @@
         "use_alt_scale": false,
         "squash_system_messages": false,
         "image_inlining": false,
-        "bypass_status_check": true,
+        "bypass_status_check": false,
         "continue_prefill": false,
         "names_behavior": 0,
         "continue_postfix": " ",
