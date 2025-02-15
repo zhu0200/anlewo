@@ -950,7 +950,7 @@
         "mistralai_model": "mistral-medium-latest",
         "cohere_model": "command-r",
         "custom_model": "",
-        "custom_url": "",
+        "custom_url": "https://haidrah-gemini-balance.hf.space",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
