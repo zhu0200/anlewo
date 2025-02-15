@@ -13,6 +13,14 @@
         "world_info": {
             "globalSelect": [
                 "陈淑兰's book"
+            ],
+            "charLore": [
+                {
+                    "name": "陈淑兰",
+                    "extraBooks": [
+                        "陈淑兰's book"
+                    ]
+                }
             ]
         },
         "world_info_depth": 2,
