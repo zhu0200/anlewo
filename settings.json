@@ -1031,7 +1031,7 @@
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
-        "proxy_password": "",
+        "proxy_password": "sk-028871600",
         "assistant_prefill": "<此条输出默认预设>\n(AI):我将遵循<详细规则>，我明白我的回答必须是身临其境和现实的，我将准确合理并符合人设的进行行动和对话。我将使用复杂的连词和过渡，逻辑地链接多个行动和描述。我将以细腻的轻小说和跑团风格语料作为回复的参考。我的回复将不少于600字。好了，现在轮到我作为{{{char}}}回复:",
         "human_sysprompt_message": "Let's get started. Please generate your response based on the information and instructions provided above.",
         "use_ai21_tokenizer": false,
