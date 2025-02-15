@@ -1234,7 +1234,7 @@
         "mistralai_model": "mistral-medium-latest",
         "cohere_model": "command-r",
         "custom_model": "gemini-1.0-pro",
-        "custom_url": "https://haidrah-gemini-balance.hf.space/gemini",
+        "custom_url": "https://haidrah-gemini-balance.hf.space",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
