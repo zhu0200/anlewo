@@ -546,7 +546,7 @@
         },
         "chromadb": {},
         "translate": {
-            "target_language": "en",
+            "target_language": "zh-CN",
             "internal_language": "en",
             "provider": "google",
             "auto_mode": "none"
