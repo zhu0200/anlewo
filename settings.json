@@ -1487,7 +1487,7 @@
         "ai21_model": "j2-ultra",
         "mistralai_model": "mistral-medium-latest",
         "cohere_model": "command-r-plus",
-        "custom_model": "gemini-1.5-flash",
+        "custom_model": "gemini-2.0-flash",
         "custom_url": "https://haidrah-gemini-balance.hf.space/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
