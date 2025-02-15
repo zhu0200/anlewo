@@ -962,7 +962,7 @@
         "openrouter_group_models": false,
         "openrouter_sort_models": "alphabetically",
         "jailbreak_system": false,
-        "reverse_proxy": "https://haidrah-gemini-balance.hf.space/v1beta/models/gemini-2.0-flash-exp:generateContent",
+        "reverse_proxy": "https://haidrah-gemini-balance.hf.space/hf",
         "chat_completion_source": "openai",
         "max_context_unlocked": true,
         "api_url_scale": "",
