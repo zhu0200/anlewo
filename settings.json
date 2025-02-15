@@ -963,7 +963,7 @@
         "openrouter_sort_models": "alphabetically",
         "jailbreak_system": false,
         "reverse_proxy": "https://haidrah-gemini-balance.hf.space/hf",
-        "chat_completion_source": "custom",
+        "chat_completion_source": "openai",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
