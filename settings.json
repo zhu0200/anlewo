@@ -2,6 +2,7 @@
     "firstRun": false,
     "currentVersion": "1.11.7",
     "username": "鲁迪斯",
+    "active_character": "3.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "gui",
     "user_avatar": "user-default.png",
@@ -332,7 +333,11 @@
         "note": {
             "default": "",
             "chara": [],
-            "wiAddition": []
+            "wiAddition": [],
+            "defaultPosition": 1,
+            "defaultDepth": 4,
+            "defaultInterval": 1,
+            "defaultRole": 0
         },
         "caption": {
             "refine_mode": false,
