@@ -1008,7 +1008,7 @@
         "group_nudge_prompt": "[Write the next reply only as {{char}}.]",
         "scenario_format": "[Circumstances and context of the dialogue: {{scenario}}]",
         "personality_format": "[{{char}}'s personality: {{personality}}]",
-        "openai_model": "claude-2",
+        "openai_model": "code-davinci-002",
         "claude_model": "claude-2.0",
         "google_model": "gemini-1.5-pro-latest",
         "ai21_model": "j2-ultra",
