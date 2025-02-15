@@ -967,7 +967,7 @@
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
-        "proxy_password": "",
+        "proxy_password": "sk-Unreiwqlbn2iorn32uiorbuoamlznviouwe",
         "assistant_prefill": "",
         "human_sysprompt_message": "Let's get started. Please generate your response based on the information and instructions provided above.",
         "use_ai21_tokenizer": false,
