@@ -983,8 +983,8 @@
         "n": 1
     },
     "background": {
-        "name": "__transparent.png",
-        "url": "url(\"backgrounds/__transparent.png\")"
+        "name": "bedroom clean.jpg",
+        "url": "url(\"backgrounds/bedroom clean.jpg\")"
     },
     "proxies": [
         {
