@@ -1500,7 +1500,7 @@
         "openrouter_sort_models": "alphabetically",
         "jailbreak_system": false,
         "reverse_proxy": "",
-        "chat_completion_source": "claude",
+        "chat_completion_source": "makersuite",
         "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": true,
