@@ -2,7 +2,7 @@
     "firstRun": false,
     "currentVersion": "1.11.7",
     "username": "鲁迪斯",
-    "active_character": "default_Seraphina.png",
+    "active_character": "陈淑兰.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "gui",
     "user_avatar": "user-default.png",
@@ -661,7 +661,8 @@
         "default_CodingSensei.png": [
             "1345561466591"
         ],
-        "3.png": []
+        "3.png": [],
+        "陈淑兰.png": []
     },
     "nai_settings": {
         "temperature": 1.35,
