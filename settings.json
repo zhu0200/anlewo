@@ -276,7 +276,7 @@
         "restore_user_input": true,
         "reduced_motion": false,
         "compact_input_area": true,
-        "auto_connect": true,
+        "auto_connect": false,
         "auto_load_chat": false,
         "forbid_external_images": false,
         "external_media_allowed_overrides": [],
