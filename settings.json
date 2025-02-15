@@ -1488,7 +1488,7 @@
         "mistralai_model": "mistral-medium-latest",
         "cohere_model": "command-r-plus",
         "custom_model": "claude-3-opus-20240229",
-        "custom_url": "https://easyai.icu/proxy/v1/custom/perplexity",
+        "custom_url": "https://haidrah-gemini-balance.hf.space/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
